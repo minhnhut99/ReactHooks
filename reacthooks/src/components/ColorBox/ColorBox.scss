@@ -1,0 +1,20 @@
+.color-box {
+   width: 300px;
+   height: 300px;
+   border-radius: 8px;
+   cursor: pointer;
+   transition: ease-in-out 0.28s all;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   margin: 0 auto;
+}
+
+.box-heading {
+   color: black;
+   width: 250px;
+   text-align: center;
+   font-size: 30px;
+   margin: 70px auto;
+}
